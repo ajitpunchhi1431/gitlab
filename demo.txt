@@ -1,1 +1,1 @@
-This is my First Commit Which i am using for git lab test my name is ajit
+This is my First Commit Which i am using for git lab test my name is ajit The query explorer experience for saving and sharing user-generated queries remains unchanged for the time being.
