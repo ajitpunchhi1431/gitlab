@@ -1,1 +1,3 @@
-This is my First Commit Which i am using for git lab test my name is ajit The query explorer experience for saving and sharing user-generated queries remains unchanged for the time being.
+
+This is my First Commit Which i am using for git lab test my name is ajit If you are a KQL pro and prefer to get directly to the query editor, you can toggle the the query dialog "off". With the toggle off, the example query dialog does not load when Log Analytics screen loads.
+
