@@ -1,1 +1,1 @@
-This is my First Commit Which i am using for git lab test my name is ajit
+This is my First Commit Which i am using for git lab test my name is ajit If you are a KQL pro and prefer to get directly to the query editor, you can toggle the the query dialog "off". With the toggle off, the example query dialog does not load when Log Analytics screen loads.
